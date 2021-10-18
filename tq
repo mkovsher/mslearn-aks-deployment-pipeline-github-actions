@@ -1,0 +1,220 @@
+[33mcommit b3edfe85add88df199c5c1f82f9462aa6785059d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v7.0.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Mon Oct 18 18:42:45 2021 +0000
+
+    change staging and production
+
+[33mcommit 5380ee3e95896674fbe49a7b13e2ba61cc6a5e4a[m
+Author: mkovsher <72070866+mkovsher@users.noreply.github.com>
+Date:   Mon Oct 18 21:17:46 2021 +0300
+
+    production deploy
+
+[33mcommit 01d31ed8075696c801de5814da96bcce1ae9e161[m[33m ([m[1;33mtag: v6.0.1[m[33m, [m[1;33mtag: v6.0.0[m[33m)[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Mon Oct 18 17:50:35 2021 +0000
+
+    helm deploy
+
+[33mcommit f537355894210a4dc104edaeff1142958380bce0[m[33m ([m[1;33mtag: v5.0.0[m[33m)[m
+Author: mkovsher <72070866+mkovsher@users.noreply.github.com>
+Date:   Mon Oct 18 20:45:48 2021 +0300
+
+    Add deploy step to production
+
+[33mcommit 5923b14260d9492fe9b40a86b4e87f0082a37ba4[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Mon Oct 18 17:34:19 2021 +0000
+
+    helm deploy
+
+[33mcommit 8a56c0daf5b292a70bdf76f8e76bfaacec38b1b6[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Mon Oct 18 17:14:23 2021 +0000
+
+    change registry in values.yaml and apiversion in ingress.yaml
+
+[33mcommit 1b814be0bfd74c309f3ac538cc23d70c4b892f8b[m
+Author: mkovsher <72070866+mkovsher@users.noreply.github.com>
+Date:   Mon Oct 18 19:33:32 2021 +0300
+
+    change API version
+
+[33mcommit 72a9403458055c5ccbfd79f715d1c73c9f471053[m
+Author: mkovsher <72070866+mkovsher@users.noreply.github.com>
+Date:   Mon Oct 18 19:15:39 2021 +0300
+
+    create build steps for staging
+
+[33mcommit 9dc9cb460260e01a31ee924fffbac551e5ec4697[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Mon Oct 18 14:06:33 2021 +0000
+
+    prepare helm
+
+[33mcommit ddebbf1a981c29c4e67ec6322ca51fccc026a79e[m[33m ([m[1;33mtag: v4.0.1[m[33m, [m[1;33mtag: v4.0.0[m[33m, [m[1;33mtag: v3.0.0[m[33m)[m
+Author: mkovsher <72070866+mkovsher@users.noreply.github.com>
+Date:   Mon Oct 18 15:56:47 2021 +0300
+
+    create build steps for production
+
+[33mcommit 9c316e9a547c01697491e7298aa02d59ea1309d4[m
+Author: mkovsher <72070866+mkovsher@users.noreply.github.com>
+Date:   Mon Oct 18 15:47:51 2021 +0300
+
+    create build steps for staging
+
+[33mcommit 11e097cae2b41fac9fa3faf9aad2d4c78bd1f019[m[33m ([m[1;33mtag: v2.0.0[m[33m)[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Thu Jun 24 10:06:52 2021 -0300
+
+    Fix init script
+    
+    Signed-off-by: Lucas Santos <lhs.santoss@gmail.com>
+
+[33mcommit 0dcf054b12dddec43ee42130e5fe8a42ccd72158[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Mon Feb 22 11:55:30 2021 -0300
+
+    Use MCR link
+
+[33mcommit 114ab33b0e66ac49c25e87cfcc77a6cfff461869[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Mon Feb 22 11:53:44 2021 -0300
+
+    Change repository username
+
+[33mcommit 54b7f14a950cacbda000a42e925b8735bde882ac[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Mon Jan 11 17:59:47 2021 -0300
+
+    Add progress indicators
+
+[33mcommit cdcf11dcd5c64787a5ec1f7aa7835e84d987a799[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Wed Dec 2 14:31:47 2020 -0300
+
+    Add managed identity
+
+[33mcommit 2f91456ff46487e0ede792dc1d66ddda3a541e2d[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Tue Oct 13 01:21:17 2020 -0300
+
+    Update README.md
+
+[33mcommit d7457174666c99b7064f0e25c57a4fcdbc431da3[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Thu Oct 8 11:19:08 2020 -0300
+
+    Update init.sh
+
+[33mcommit 64f2de5eead9cb9016a6a5847284665a6e34e8fc[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Thu Oct 8 10:41:18 2020 -0300
+
+    Update init.sh
+
+[33mcommit 34d859d52f7862b418749e9d82ddc91d8520154c[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Fri Sep 25 14:25:51 2020 -0300
+
+    Update ingress.yaml
+
+[33mcommit 0f85fffa426f96cff8e04c1f6025324c5d72dab2[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Thu Sep 24 22:13:17 2020 -0300
+
+    Add placeholders
+
+[33mcommit 2f93456af831fc27a2548ae4a18346ba552ee86f[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Wed Sep 23 15:17:24 2020 -0300
+
+    Add username and password to init
+
+[33mcommit 3af8b7000ff92b3387cd17a146f461416294a7e0[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Wed Sep 23 15:06:55 2020 -0300
+
+    Enable admin access
+
+[33mcommit bf3058550d8ca235c9d6516f37946672ed246f77[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Tue Sep 22 20:56:01 2020 -0300
+
+    Add startup script
+
+[33mcommit 36b3931c220932f54162796582b0359f3b9a4960[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Tue Sep 22 19:15:40 2020 -0300
+
+    Fix docker build
+
+[33mcommit 382e4648e936997486e0d3067967c475e8b92113[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Tue Sep 22 19:10:16 2020 -0300
+
+    Change repository source
+
+[33mcommit cff201c67751e1591658763f42f1599017e985a9[m
+Author: Microsoft Learn Student <learn@contoso.com>
+Date:   Tue Sep 22 19:09:42 2020 -0300
+
+    Add submodule
+
+[33mcommit b82448c56c34f5e1a6d1b786b01bba5a2efdbfb5[m
+Merge: 9f15aa4 ece68cc
+Author: Jason Boeshart <jboeshart@users.noreply.github.com>
+Date:   Tue Aug 4 11:21:02 2020 -0500
+
+    Merge pull request #1 from khaosdoctor/main
+    
+    Create base demo app
+
+[33mcommit ece68cca4dff5345349bf3c1f10272748e654fb2[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Tue Aug 4 13:13:06 2020 -0300
+
+    Change sample texts
+
+[33mcommit 8fc2af84ba6004d21fcb2865ff0a31dad018b66d[m
+Author: Lucas Santos <lhs.santoss@gmail.com>
+Date:   Tue Aug 4 13:09:04 2020 -0300
+
+    Add sample code base
+
+[33mcommit 9f15aa439c084a358af06cad514e9f464ca1e185[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Tue Aug 4 08:46:44 2020 -0700
+
+    Initial SECURITY.md commit
+
+[33mcommit 168435dd84c22b47fb24d80eeb1582bcfd8a907b[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Tue Aug 4 08:46:43 2020 -0700
+
+    Initial README.md commit
+
+[33mcommit c1cda2be2cbd7dee8fae04dc06776f792f397606[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Tue Aug 4 08:46:42 2020 -0700
+
+    Initial LICENSE-CODE commit
+
+[33mcommit c2de5991c41f0244f635349c4a1347acc0351e58[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Tue Aug 4 08:46:41 2020 -0700
+
+    Initial LICENSE commit
+
+[33mcommit f386e46c5513d979d39b065c4b8f0c54903aa945[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Tue Aug 4 08:46:40 2020 -0700
+
+    Initial CODE_OF_CONDUCT.md commit
+
+[33mcommit 260918d9f8d8c128c231ea828174f69c890f0145[m
+Author: microsoft-github-operations[bot] <55726097+microsoft-github-operations[bot]@users.noreply.github.com>
+Date:   Tue Aug 4 15:46:36 2020 +0000
+
+    Initial commit
